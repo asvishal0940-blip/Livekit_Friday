@@ -1,0 +1,9 @@
+livekit-agents[mcp]
+livekit-plugins-google
+livekit-plugins-elevenlabs
+livekit-plugins-noise-cancellation
+
+mem0ai
+requests
+python-dotenv
+tzdata
